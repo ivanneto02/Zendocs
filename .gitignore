@@ -2,3 +2,4 @@ venv/
 .vscode
 saves/
 logic/
+__pycache__/
